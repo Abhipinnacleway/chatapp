@@ -1,0 +1,23 @@
+.chat_container{
+    height: 100vh;
+    padding: 0 20%;
+    background-color: beige;
+}
+.chat_navbar{
+    border-bottom: 1px solid rebeccapurple  ;
+    padding: 0 4px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.chat_nav_username{
+    font-size: 0.8rem;
+}
+.chat_nav_logut_btn{
+    cursor: pointer;
+    font-weight: 600;
+    border:none;
+    border-radius: 5px;
+    padding: 5px;
+    background-color: bisque;
+}
